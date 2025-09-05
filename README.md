@@ -14,7 +14,7 @@ It provides a clean graphical interface, unlimited password generation, and a bu
 ---
 
 ## 📸 Demo  
-[App Screenshot](images/Screenshot.png)
+![App Screenshot](images/Screenshot.png)
 
 ---
 
