@@ -51,7 +51,7 @@ pip install PyQt6
 
 ## 📂 Project Structure
 ```
-random-password-generator/
+password-generator/
 │
 ├── password-generator.py # Main application file
 ├── requirements.txt     # Dependencies
