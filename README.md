@@ -14,7 +14,7 @@ It provides a clean graphical interface, unlimited password generation, and a bu
 ---
 
 ## 📸 Demo  
-[App Screenshot](images/Screenshot.png)
+![App Screenshot](images/Screenshot.png)
 
 ---
 
@@ -22,7 +22,7 @@ It provides a clean graphical interface, unlimited password generation, and a bu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<ahmetcakir-dev/password-generator.git
+   git clone https://github.com/ahmetcakir-dev/password-generator.git
    cd password-generator
    ```
 
@@ -51,7 +51,7 @@ pip install PyQt6
 
 ## 📂 Project Structure
 ```
-random-password-generator/
+password-generator/
 │
 ├── password-generator.py # Main application file
 ├── requirements.txt     # Dependencies
