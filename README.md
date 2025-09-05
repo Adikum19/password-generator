@@ -22,7 +22,7 @@ It provides a clean graphical interface, unlimited password generation, and a bu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<ahmetcakir-dev/password-generator.git
+   git clone https://github.com/ahmetcakir-dev/password-generator.git
    cd password-generator
    ```
 
